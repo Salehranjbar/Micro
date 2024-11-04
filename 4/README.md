@@ -1,4 +1,4 @@
-**[تاس الکترونیکی](https://github.com/Alidl81/MICRO/blob/main/4/Elec_tas.ino)**
+**[تاس الکترونیکی](https://github.com/Salehranjbar/MICRO/blob/main/4/Elec_tas.ino)**
 
 **عنوان آزمایش:** ساخت تاس الکترونیکی با استفاده از میکروکنترلر
 
@@ -34,7 +34,7 @@
 
 ============================================================================================
 
-**[دیمر](https://github.com/Alidl81/MICRO/blob/main/4/dimer.ino)**
+**[دیمر](https://github.com/Salehranjbar/MICRO/blob/main/4/dimer.ino)**
 
 
 **عنوان آزمایش:** دیمر دستی
@@ -69,7 +69,7 @@
 
 ============================================================================================
 
-**[دیمر و سریال مانیتور](https://github.com/Alidl81/MICRO/blob/main/4/dimer_SM.ino)**
+**[دیمر و سریال مانیتور](https://github.com/Salehranjbar/MICRO/blob/main/4/dimer_SM.ino)**
 
 
 **عنوان آزمایش:** دایمر دستی با قابلیت نمایش در سریال مانیتور
@@ -102,7 +102,7 @@
 ============================================================================================
 
 
-**[دیمر اتوماتیک](https://github.com/Alidl81/MICRO/blob/main/4/auto_dimer.ino)**
+**[دیمر اتوماتیک](https://github.com/Salehranjbar/MICRO/blob/main/4/auto_dimer.ino)**
 
 
 **عنوان آزمایش:**  کنترل خودکار شدت نور LED با استفاده از PWM
