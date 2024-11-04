@@ -1,4 +1,4 @@
-**[ال سی دی (LCD)](https://github.com/Salehranjbar/Micro/main/5/LCD.ino)**
+**[ال سی دی (LCD)](https://github.com/Salehranjbar/Micro/blob/main/5/LCD.ino)**
 
 **عنوان آزمایش:** کار با LCD 
 
@@ -32,7 +32,7 @@
 
 ============================================================================================
 
-**[مدار ultrasonic](https://github.com/Salehranjbar/Micro/main/5/ultrasonic.ino)**
+**[مدار ultrasonic](https://github.com/Salehranjbar/Micro/blob/main/5/ultrasonic.ino)**
 
 **عنوان آزمایش:** کار با حسگر اولتراسونیک
 
