@@ -42,9 +42,9 @@
 
 [18 دما و رطوبت با DHT11](https://github.com/Salehranjbar/MICRO/tree/main/7/DHT11)
 
-[19 اتصال دو برد آردوینو و روشن شدن با پتاسومتر](https://github.com/Salehranjbar/MICRO/tree/main/8/Master_Slave%20POT)
+[19 اتصال دو برد آردوینو و روشن شدن با پتاسومتر](https://github.com/Salehranjbar/MICRO/tree/main/8/master_slave%20POT)
 
-[20 اتصال دو برد آردوینو و روشن شدن با دستور سریال](https://github.com/Salehranjbar/MICRO/tree/main/8/Master_Slave_Serial)
+[20 اتصال دو برد آردوینو و روشن شدن با دستور سریال](https://github.com/Salehranjbar/MICRO/tree/main/8/master_slave_Serial)
 
 [21 راه اندازی موتور DC با L298N](https://github.com/Salehranjbar/MICRO/tree/main/8/L298N)
 
